@@ -5496,7 +5496,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AnAgHa28a">
                     <img src="https://avatars.githubusercontent.com/u/147716741?v=4" width="100px;"
                         alt="Anagha" />
-                    <br/>
+                    <br />
                     <sub>
                         <b>Anagha</b>
                     </sub>
